@@ -1,5 +1,5 @@
 # 💫 About Me:
-hi everyone im mahdi 27 yaers old <br>i have more than 3 years experience in accounting and forex.<br>but since im crazy about technology I've decided to become a frontend developer.<br>i'm a detail oriented , problem solver and hardworking person.  fluent in html, css, js, react.js, node.js, next.js , bootstrap and currently im mastering tailwind.<br>what sets me apart ? <br>my estj traits > organization, accountability and goal oriented mindset, pair well with my passion for collaboration.<br>as a lifelong learner im eager to work in an environment where i can learn from seasoned teams and persons. 
+hi everyone im mahdi 27 yaers old <br>i have more than 3 years experience in accounting and forex !.<br>but since im crazy about technology I've decided to become a frontend developer.<br>i'm a detail oriented , problem solver and hardworking person.  fluent in html, css, js, react.js, node.js, next.js , bootstrap and currently im mastering tailwind.<br>what sets me apart ? <br>my estj traits > organization, accountability and goal oriented mindset, pair well with my passion for collaboration.<br>as a lifelong learner im eager to work in an environment where i can learn from seasoned teams and persons. 
 
 
 ## 🌐 Socials:
